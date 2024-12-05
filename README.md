@@ -1,7 +1,7 @@
 # gh-deployment-workflow
 
 ## Project URL  
-[project URL](https://roadmap.sh/projects/github-actions-deployment-workflow) 
+[project URL](https://roadmap.sh/projects/ssh-remote-server-setup) 
 
  
 ## Overview
